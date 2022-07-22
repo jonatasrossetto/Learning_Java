@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\jonat\OneDrive\CODING\Learning_Java\udemy_Java\.metadata\.plugins\org.eclipse.jdt.core
+3022215643.index
+2386215410.index
+274617425.index
+512089187.index
+2304181739.index
+222201273.index
+2788259272.index
+1770188021.index
+3903315991.index
+1926626787.index
+4181586276.index
+277060579.index
+4270870629.index
+1907274157.index
+389255240.index
+1614061790.index
+2678116481.index
+1865797976.index
+2959646238.index
+3961756172.index
+111771963.index
+4266669437.index
+5044642.index
