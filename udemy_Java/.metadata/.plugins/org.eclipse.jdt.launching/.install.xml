@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="C:\Users\jonat\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038" stamp="1663070042970"/>
+    <entry loc="C:\Users\jonat\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038\jre" stamp="1663070042967"/>
     <entry loc="C:\Program Files\Java\zulu17.30.15-ca-jdk17.0.1-win_x64" stamp="1637343129564"/>
 </dirs>

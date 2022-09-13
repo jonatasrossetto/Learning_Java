@@ -1,0 +1,27 @@
+package estudo_18_date_time;
+
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Trabalhando com data e hora");
+		LocalDate d01 = LocalDate.now();
+		LocalDateTime d02 = LocalDateTime.now();
+		Instant d03 = Instant.now();
+		
+		LocalDate d04 = LocalDate.parse("2022-07-20");
+		LocalDateTime d05 = LocalDateTime.parse("2022-07-20T14:30:25");
+		
+		System.out.println("d01 = "+d01.toString());
+		System.out.println("d02 = "+d02.toString());
+		System.out.println("d03 = "+d03.toString());
+		System.out.println("d04 = "+d04.toString());
+		System.out.println("d05 = "+d05.toString());
+	}
+
+}
+
